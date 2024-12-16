@@ -1,1 +1,8 @@
- 
+{
+  "short_name": "CSV Scraper",
+  "name": "CSV Scraper Application",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+} 
